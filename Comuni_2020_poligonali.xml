@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      
+    <gmd:fileIdentifier>
+            
+        <gco:CharacterString>r_lombar:A1D3FFE5-BA78-43BB-8EE5-D892DC55A29F</gco:CharacterString>
+          
+    </gmd:fileIdentifier>
+      
+    <gmd:language>
+            
+        <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2" codeListValue="ita">ita</gmd:LanguageCode>
+          
+    </gmd:language>
+      
+    <gmd:characterSet>
+            
+        <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+          
+    </gmd:characterSet>
+      
+    <gmd:parentIdentifier>
+            
+        <gco:CharacterString>r_lombar:A1D3FFE5-BA78-43BB-8EE5-D892DC55A29F</gco:CharacterString>
+          
+    </gmd:parentIdentifier>
+      
+    <gmd:hierarchyLevel>
+            
+        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+          
+    </gmd:hierarchyLevel>
+      
+    <gmd:hierarchyLevelName>
+            
+        <gco:CharacterString>Le informazioni si applicano ai dataset</gco:CharacterString>
+          
+    </gmd:hierarchyLevelName>
+      
+    <gmd:contact>
+            
+        <gmd:CI_ResponsibleParty>
+                  
+            <gmd:organisationName>
+                        
+                <gco:CharacterString>Regione Lombardia</gco:CharacterString>
+                      
+            </gmd:organisationName>
+                  
+            <gmd:contactInfo>
+                        
+                <gmd:CI_Contact>
+                              
+                    <gmd:phone>
+                                    
+                        <gmd:CI_Telephone>
+                                          
+                            <gmd:voice>
+                                                
+                                <gco:CharacterString>0267651</gco:CharacterString>
+                                              
+                            </gmd:voice>
+                                        
+                        </gmd:CI_Telephone>
+                                  
+                    </gmd:phone>
+                              
+                    <gmd:address>
+                                    
+                        <gmd:CI_Address>
+                                          
+                            <gmd:deliveryPoint>
+                                                
+                                <gco:CharacterString>Piazza città di Lombardia 1</gco:CharacterString>
+                                              
+                            </gmd:deliveryPoint>
+                                          
+                            <gmd:city>
+                                                
+                                <gco:CharacterString>Milano</gco:CharacterString>
+                                              
+                            </gmd:city>
+                                          
+                            <gmd:administrativeArea>
+                                                
+                                <gco:CharacterString>Milano</gco:CharacterString>
+                                              
+                            </gmd:administrativeArea>
+                                          
+                            <gmd:postalCode>
+                                                
+                                <gco:CharacterString>20124</gco:CharacterString>
+                                              
+                            </gmd:postalCode>
+                                          
+                            <gmd:country>
+                                                
+                                <gco:CharacterString>Italia</gco:CharacterString>
+                                              
+                            </gmd:country>
+                                          
+                            <gmd:electronicMailAddress>
+                                                
+                                <gco:CharacterString>sit_rl@regione.lombardia.it</gco:CharacterString>
+                                              
+                            </gmd:electronicMailAddress>
+                                        
+                        </gmd:CI_Address>
+                                  
+                    </gmd:address>
+                            
+                </gmd:CI_Contact>
+                      
+            </gmd:contactInfo>
+                  
+            <gmd:role>
+                        
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                      
+            </gmd:role>
+                
+        </gmd:CI_ResponsibleParty>
+          
+    </gmd:contact>
+      
+    <gmd:dateStamp>
+            
+        <gco:Date>2020-07-22</gco:Date>
+          
+    </gmd:dateStamp>
+      
+    <gmd:metadataStandardName>
+            
+        <gco:CharacterString>DM - Regole tecniche RNDT</gco:CharacterString>
+          
+    </gmd:metadataStandardName>
+      
+    <gmd:metadataStandardVersion>
+            
+        <gco:CharacterString>10 novembre 2011</gco:CharacterString>
+          
+    </gmd:metadataStandardVersion>
+      
+    <gmd:referenceSystemInfo>
+            
+        <gmd:MD_ReferenceSystem>
+                  
+            <gmd:referenceSystemIdentifier>
+                        
+                <gmd:RS_Identifier>
+                              
+                    <gmd:code>
+                                    
+                        <gco:CharacterString>32632</gco:CharacterString>
+                                  
+                    </gmd:code>
+                              
+                    <gmd:codeSpace>
+                                    
+                        <gco:CharacterString>http://www.epsg-registry.org</gco:CharacterString>
+                                  
+                    </gmd:codeSpace>
+                            
+                </gmd:RS_Identifier>
+                      
+            </gmd:referenceSystemIdentifier>
+                
+        </gmd:MD_ReferenceSystem>
+          
+    </gmd:referenceSystemInfo>
+      
+    <gmd:identificationInfo>
+            
+        <gmd:MD_DataIdentification>
+                  
+            <gmd:citation>
+                        
+                <gmd:CI_Citation>
+                              
+                    <gmd:title>
+                                    
+                        <gco:CharacterString>Limiti amministrativi 2020</gco:CharacterString>
+                                  
+                    </gmd:title>
+                              
+                    <gmd:date>
+                                    
+                        <gmd:CI_Date>
+                                          
+                            <gmd:date>
+                                                
+                                <gco:Date>2020-01-07</gco:Date>
+                                              
+                            </gmd:date>
+                                          
+                            <gmd:dateType>
+                                                
+                                <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+                                              
+                            </gmd:dateType>
+                                        
+                        </gmd:CI_Date>
+                                  
+                    </gmd:date>
+                              
+                    <gmd:identifier>
+                                    
+                        <gmd:MD_Identifier>
+                                          
+                            <gmd:code>
+                                                
+                                <gco:CharacterString>r_lombar:A1D3FFE5-BA78-43BB-8EE5-D892DC55A29F</gco:CharacterString>
+                                              
+                            </gmd:code>
+                                        
+                        </gmd:MD_Identifier>
+                                  
+                    </gmd:identifier>
+                              
+                    <gmd:citedResponsibleParty>
+                                    
+                        <gmd:CI_ResponsibleParty>
+                                          
+                            <gmd:organisationName>
+                                                
+                                <gco:CharacterString>Regione Lombardia</gco:CharacterString>
+                                              
+                            </gmd:organisationName>
+                                          
+                            <gmd:contactInfo>
+                                                
+                                <gmd:CI_Contact>
+                                                      
+                                    <gmd:phone>
+                                                            
+                                        <gmd:CI_Telephone>
+                                                                  
+                                            <gmd:voice>
+                                                                        
+                                                <gco:CharacterString>0267651</gco:CharacterString>
+                                                                      
+                                            </gmd:voice>
+                                                                
+                                        </gmd:CI_Telephone>
+                                                          
+                                    </gmd:phone>
+                                                      
+                                    <gmd:address>
+                                                            
+                                        <gmd:CI_Address>
+                                                                  
+                                            <gmd:deliveryPoint>
+                                                                        
+                                                <gco:CharacterString>Piazza città di Lombardia 1</gco:CharacterString>
+                                                                      
+                                            </gmd:deliveryPoint>
+                                                                  
+                                            <gmd:city>
+                                                                        
+                                                <gco:CharacterString>Milano</gco:CharacterString>
+                                                                      
+                                            </gmd:city>
+                                                                  
+                                            <gmd:administrativeArea>
+                                                                        
+                                                <gco:CharacterString>Milano</gco:CharacterString>
+                                                                      
+                                            </gmd:administrativeArea>
+                                                                  
+                                            <gmd:postalCode>
+                                                                        
+                                                <gco:CharacterString>20124</gco:CharacterString>
+                                                                      
+                                            </gmd:postalCode>
+                                                                  
+                                            <gmd:country>
+                                                                        
+                                                <gco:CharacterString>Italia</gco:CharacterString>
+                                                                      
+                                            </gmd:country>
+                                                                  
+                                            <gmd:electronicMailAddress>
+                                                                        
+                                                <gco:CharacterString>sit_rl@regione.lombardia.it</gco:CharacterString>
+                                                                      
+                                            </gmd:electronicMailAddress>
+                                                                
+                                        </gmd:CI_Address>
+                                                          
+                                    </gmd:address>
+                                                    
+                                </gmd:CI_Contact>
+                                              
+                            </gmd:contactInfo>
+                                          
+                            <gmd:role>
+                                                
+                                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                                              
+                            </gmd:role>
+                                        
+                        </gmd:CI_ResponsibleParty>
+                                  
+                    </gmd:citedResponsibleParty>
+                              
+                    <gmd:citedResponsibleParty>
+                                    
+                        <gmd:CI_ResponsibleParty>
+                                          
+                            <gmd:organisationName>
+                                                
+                                <gco:CharacterString>Regione Lombardia</gco:CharacterString>
+                                              
+                            </gmd:organisationName>
+                                          
+                            <gmd:contactInfo>
+                                                
+                                <gmd:CI_Contact>
+                                                      
+                                    <gmd:phone>
+                                                            
+                                        <gmd:CI_Telephone>
+                                                                  
+                                            <gmd:voice>
+                                                                        
+                                                <gco:CharacterString>0267651</gco:CharacterString>
+                                                                      
+                                            </gmd:voice>
+                                                                
+                                        </gmd:CI_Telephone>
+                                                          
+                                    </gmd:phone>
+                                                      
+                                    <gmd:address>
+                                                            
+                                        <gmd:CI_Address>
+                                                                  
+                                            <gmd:deliveryPoint>
+                                                                        
+                                                <gco:CharacterString>Piazza città di Lombardia 1</gco:CharacterString>
+                                                                      
+                                            </gmd:deliveryPoint>
+                                                                  
+                                            <gmd:city>
+                                                                        
+                                                <gco:CharacterString>Milano</gco:CharacterString>
+                                                                      
+                                            </gmd:city>
+                                                                  
+                                            <gmd:administrativeArea>
+                                                                        
+                                                <gco:CharacterString>Milano</gco:CharacterString>
+                                                                      
+                                            </gmd:administrativeArea>
+                                                                  
+                                            <gmd:postalCode>
+                                                                        
+                                                <gco:CharacterString>20124</gco:CharacterString>
+                                                                      
+                                            </gmd:postalCode>
+                                                                  
+                                            <gmd:country>
+                                                                        
+                                                <gco:CharacterString>Italia</gco:CharacterString>
+                                                                      
+                                            </gmd:country>
+                                                                  
+                                            <gmd:electronicMailAddress>
+                                                                        
+                                                <gco:CharacterString>sit_rl@regione.lombardia.it</gco:CharacterString>
+                                                                      
+                                            </gmd:electronicMailAddress>
+                                                                
+                                        </gmd:CI_Address>
+                                                          
+                                    </gmd:address>
+                                                    
+                                </gmd:CI_Contact>
+                                              
+                            </gmd:contactInfo>
+                                          
+                            <gmd:role>
+                                                
+                                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                                              
+                            </gmd:role>
+                                        
+                        </gmd:CI_ResponsibleParty>
+                                  
+                    </gmd:citedResponsibleParty>
+                              
+                    <gmd:citedResponsibleParty>
+                                    
+                        <gmd:CI_ResponsibleParty>
+                                          
+                            <gmd:organisationName>
+                                                
+                                <gco:CharacterString>Regione Lombardia</gco:CharacterString>
+                                              
+                            </gmd:organisationName>
+                                          
+                            <gmd:contactInfo>
+                                                
+                                <gmd:CI_Contact>
+                                                      
+                                    <gmd:phone>
+                                                            
+                                        <gmd:CI_Telephone>
+                                                                  
+                                            <gmd:voice>
+                                                                        
+                                                <gco:CharacterString>0267651</gco:CharacterString>
+                                                                      
+                                            </gmd:voice>
+                                                                
+                                        </gmd:CI_Telephone>
+                                                          
+                                    </gmd:phone>
+                                                      
+                                    <gmd:address>
+                                                            
+                                        <gmd:CI_Address>
+                                                                  
+                                            <gmd:deliveryPoint>
+                                                                        
+                                                <gco:CharacterString>Piazza città di Lombardia 1</gco:CharacterString>
+                                                                      
+                                            </gmd:deliveryPoint>
+                                                                  
+                                            <gmd:city>
+                                                                        
+                                                <gco:CharacterString>Milano</gco:CharacterString>
+                                                                      
+                                            </gmd:city>
+                                                                  
+                                            <gmd:administrativeArea>
+                                                                        
+                                                <gco:CharacterString>Milano</gco:CharacterString>
+                                                                      
+                                            </gmd:administrativeArea>
+                                                                  
+                                            <gmd:postalCode>
+                                                                        
+                                                <gco:CharacterString>20124</gco:CharacterString>
+                                                                      
+                                            </gmd:postalCode>
+                                                                  
+                                            <gmd:country>
+                                                                        
+                                                <gco:CharacterString>Italia</gco:CharacterString>
+                                                                      
+                                            </gmd:country>
+                                                                  
+                                            <gmd:electronicMailAddress>
+                                                                        
+                                                <gco:CharacterString>sit_rl@regione.lombardia.it</gco:CharacterString>
+                                                                      
+                                            </gmd:electronicMailAddress>
+                                                                
+                                        </gmd:CI_Address>
+                                                          
+                                    </gmd:address>
+                                                    
+                                </gmd:CI_Contact>
+                                              
+                            </gmd:contactInfo>
+                                          
+                            <gmd:role>
+                                                
+                                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="owner">owner</gmd:CI_RoleCode>
+                                              
+                            </gmd:role>
+                                        
+                        </gmd:CI_ResponsibleParty>
+                                  
+                    </gmd:citedResponsibleParty>
+                              
+                    <gmd:presentationForm>
+                                    
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital">mapDigital</gmd:CI_PresentationFormCode>
+                                  
+                    </gmd:presentationForm>
+                              
+                    <gmd:series>
+                                    
+                        <gmd:CI_Series>
+                                          
+                            <gmd:issueIdentification>
+                                                
+                                <gco:CharacterString>r_lombar:A1D3FFE5-BA78-43BB-8EE5-D892DC55A29F</gco:CharacterString>
+                                              
+                            </gmd:issueIdentification>
+                                        
+                        </gmd:CI_Series>
+                                  
+                    </gmd:series>
+                            
+                </gmd:CI_Citation>
+                      
+            </gmd:citation>
+                  
+            <gmd:abstract>
+                        
+                <gco:CharacterString>La banca dati contiene i confini comunali, provinciali e delle Comunit&amp;agrave; montane della Regione Lombardia. Il servizio di mappa &amp;egrave; stato aggiornato nel gennaio 2020, con l’incorporazione del Comune di Vendrogno nel Comune di Bellano, in provincia di Lecco in base alla Legge regionale 25 del 30 dicembre 2019.</gco:CharacterString>
+                      
+            </gmd:abstract>
+                  
+            <gmd:pointOfContact>
+                        
+                <gmd:CI_ResponsibleParty>
+                              
+                    <gmd:organisationName>
+                                    
+                        <gco:CharacterString>Regione Lombardia</gco:CharacterString>
+                                  
+                    </gmd:organisationName>
+                              
+                    <gmd:contactInfo>
+                                    
+                        <gmd:CI_Contact>
+                                          
+                            <gmd:phone>
+                                                
+                                <gmd:CI_Telephone>
+                                                      
+                                    <gmd:voice>
+                                                            
+                                        <gco:CharacterString>0267651</gco:CharacterString>
+                                                          
+                                    </gmd:voice>
+                                                    
+                                </gmd:CI_Telephone>
+                                              
+                            </gmd:phone>
+                                          
+                            <gmd:address>
+                                                
+                                <gmd:CI_Address>
+                                                      
+                                    <gmd:deliveryPoint>
+                                                            
+                                        <gco:CharacterString>Piazza città di Lombardia 1</gco:CharacterString>
+                                                          
+                                    </gmd:deliveryPoint>
+                                                      
+                                    <gmd:city>
+                                                            
+                                        <gco:CharacterString>Milano</gco:CharacterString>
+                                                          
+                                    </gmd:city>
+                                                      
+                                    <gmd:administrativeArea>
+                                                            
+                                        <gco:CharacterString>Milano</gco:CharacterString>
+                                                          
+                                    </gmd:administrativeArea>
+                                                      
+                                    <gmd:postalCode>
+                                                            
+                                        <gco:CharacterString>20124</gco:CharacterString>
+                                                          
+                                    </gmd:postalCode>
+                                                      
+                                    <gmd:country>
+                                                            
+                                        <gco:CharacterString>Italia</gco:CharacterString>
+                                                          
+                                    </gmd:country>
+                                                      
+                                    <gmd:electronicMailAddress>
+                                                            
+                                        <gco:CharacterString>sit_rl@regione.lombardia.it</gco:CharacterString>
+                                                          
+                                    </gmd:electronicMailAddress>
+                                                    
+                                </gmd:CI_Address>
+                                              
+                            </gmd:address>
+                                        
+                        </gmd:CI_Contact>
+                                  
+                    </gmd:contactInfo>
+                              
+                    <gmd:role>
+                                    
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                                  
+                    </gmd:role>
+                            
+                </gmd:CI_ResponsibleParty>
+                      
+            </gmd:pointOfContact>
+                  
+            <gmd:resourceMaintenance>
+                        
+                <gmd:MD_MaintenanceInformation>
+                              
+                    <gmd:maintenanceAndUpdateFrequency>
+                                    
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="annually">annually</gmd:MD_MaintenanceFrequencyCode>
+                                  
+                    </gmd:maintenanceAndUpdateFrequency>
+                            
+                </gmd:MD_MaintenanceInformation>
+                      
+            </gmd:resourceMaintenance>
+                  
+            <gmd:descriptiveKeywords>
+                        
+                <gmd:MD_Keywords>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Parcelle catastali</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Utilizzo del territorio</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Sistemi di coordinate</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Unità amministrative</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Unità statistiche</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Orto immagini</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Copertura del suolo</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:thesaurusName>
+                                    
+                        <gmd:CI_Citation>
+                                          
+                            <gmd:title>
+                                                
+                                <gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                                              
+                            </gmd:title>
+                                          
+                            <gmd:date>
+                                                
+                                <gmd:CI_Date>
+                                                      
+                                    <gmd:date>
+                                                            
+                                        <gco:Date>2008-06-01</gco:Date>
+                                                          
+                                    </gmd:date>
+                                                      
+                                    <gmd:dateType>
+                                                            
+                                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                                          
+                                    </gmd:dateType>
+                                                    
+                                </gmd:CI_Date>
+                                              
+                            </gmd:date>
+                                        
+                        </gmd:CI_Citation>
+                                  
+                    </gmd:thesaurusName>
+                            
+                </gmd:MD_Keywords>
+                      
+            </gmd:descriptiveKeywords>
+                  
+            <gmd:descriptiveKeywords>
+                        
+                <gmd:MD_Keywords>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Pianificazione</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Cartografia di base e ortofoto</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:type>
+                                    
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+                                  
+                    </gmd:type>
+                            
+                </gmd:MD_Keywords>
+                      
+            </gmd:descriptiveKeywords>
+                  
+            <gmd:descriptiveKeywords>
+                        
+                <gmd:MD_Keywords>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>limiti</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>confini</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>amministrativi</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>2020</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>comuni</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>wms</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>psrs</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                            
+                </gmd:MD_Keywords>
+                      
+            </gmd:descriptiveKeywords>
+                  
+            <gmd:descriptiveKeywords>
+                        
+                <gmd:MD_Keywords>
+                              
+                    <gmd:keyword>
+                                    
+                        <gco:CharacterString>Regional</gco:CharacterString>
+                                  
+                    </gmd:keyword>
+                              
+                    <gmd:thesaurusName>
+                                    
+                        <gmd:CI_Citation>
+                                          
+                            <gmd:title>
+                                                
+                                <gco:CharacterString>Spatial scope</gco:CharacterString>
+                                              
+                            </gmd:title>
+                                          
+                            <gmd:date>
+                                                
+                                <gmd:CI_Date>
+                                                      
+                                    <gmd:date>
+                                                            
+                                        <gco:Date>2019-05-22</gco:Date>
+                                                          
+                                    </gmd:date>
+                                                      
+                                    <gmd:dateType>
+                                                            
+                                        <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                                          
+                                    </gmd:dateType>
+                                                    
+                                </gmd:CI_Date>
+                                              
+                            </gmd:date>
+                                        
+                        </gmd:CI_Citation>
+                                  
+                    </gmd:thesaurusName>
+                            
+                </gmd:MD_Keywords>
+                      
+            </gmd:descriptiveKeywords>
+                  
+            <gmd:resourceConstraints>
+                        
+                <gmd:MD_LegalConstraints>
+                              
+                    <gmd:useLimitation>
+                                    
+                        <gco:CharacterString>IODL 2.0</gco:CharacterString>
+                                  
+                    </gmd:useLimitation>
+                              
+                    <gmd:accessConstraints>
+                                    
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license">license</gmd:MD_RestrictionCode>
+                                  
+                    </gmd:accessConstraints>
+                              
+                    <gmd:useConstraints>
+                                    
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license">license</gmd:MD_RestrictionCode>
+                                  
+                    </gmd:useConstraints>
+                            
+                </gmd:MD_LegalConstraints>
+                      
+            </gmd:resourceConstraints>
+                  
+            <gmd:resourceConstraints>
+                        
+                <gmd:MD_SecurityConstraints>
+                              
+                    <gmd:classification>
+                                    
+                        <gmd:MD_ClassificationCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified">unclassified</gmd:MD_ClassificationCode>
+                                  
+                    </gmd:classification>
+                            
+                </gmd:MD_SecurityConstraints>
+                      
+            </gmd:resourceConstraints>
+                  
+            <gmd:spatialRepresentationType>
+                        
+                <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</gmd:MD_SpatialRepresentationTypeCode>
+                      
+            </gmd:spatialRepresentationType>
+                  
+            <gmd:spatialResolution>
+                        
+                <gmd:MD_Resolution>
+                              
+                    <gmd:equivalentScale>
+                                    
+                        <gmd:MD_RepresentativeFraction>
+                                          
+                            <gmd:denominator>
+                                                
+                                <gco:Integer>10000</gco:Integer>
+                                              
+                            </gmd:denominator>
+                                        
+                        </gmd:MD_RepresentativeFraction>
+                                  
+                    </gmd:equivalentScale>
+                            
+                </gmd:MD_Resolution>
+                      
+            </gmd:spatialResolution>
+                  
+            <gmd:language>
+                        
+                <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2" codeListValue="ita">ita</gmd:LanguageCode>
+                      
+            </gmd:language>
+                  
+            <gmd:characterSet>
+                        
+                <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+                      
+            </gmd:characterSet>
+                  
+            <gmd:topicCategory>
+                        
+                <gmd:MD_TopicCategoryCode>planningCadastre</gmd:MD_TopicCategoryCode>
+                      
+            </gmd:topicCategory>
+                  
+            <gmd:topicCategory>
+                        
+                <gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
+                      
+            </gmd:topicCategory>
+                  
+            <gmd:topicCategory>
+                        
+                <gmd:MD_TopicCategoryCode>imageryBaseMapsEarthCover</gmd:MD_TopicCategoryCode>
+                      
+            </gmd:topicCategory>
+                  
+            <gmd:extent>
+                        
+                <gmd:EX_Extent>
+                              
+                    <gmd:geographicElement>
+                                    
+                        <gmd:EX_GeographicBoundingBox>
+                                          
+                            <gmd:westBoundLongitude>
+                                                
+                                <gco:Decimal>8.48038749999994</gco:Decimal>
+                                              
+                            </gmd:westBoundLongitude>
+                                          
+                            <gmd:eastBoundLongitude>
+                                                
+                                <gco:Decimal>11.442437500000002</gco:Decimal>
+                                              
+                            </gmd:eastBoundLongitude>
+                                          
+                            <gmd:southBoundLatitude>
+                                                
+                                <gco:Decimal>44.652112499999966</gco:Decimal>
+                                              
+                            </gmd:southBoundLatitude>
+                                          
+                            <gmd:northBoundLatitude>
+                                                
+                                <gco:Decimal>46.8424125</gco:Decimal>
+                                              
+                            </gmd:northBoundLatitude>
+                                        
+                        </gmd:EX_GeographicBoundingBox>
+                                  
+                    </gmd:geographicElement>
+                            
+                </gmd:EX_Extent>
+                      
+            </gmd:extent>
+                
+        </gmd:MD_DataIdentification>
+          
+    </gmd:identificationInfo>
+      
+    <gmd:distributionInfo>
+            
+        <gmd:MD_Distribution>
+                  
+            <gmd:distributionFormat>
+                        
+                <gmd:MD_Format>
+                              
+                    <gmd:name>
+                                    
+                        <gco:CharacterString>Shapefile</gco:CharacterString>
+                                  
+                    </gmd:name>
+                              
+                    <gmd:version>
+                                    
+                        <gco:CharacterString>Arcgis10.x</gco:CharacterString>
+                                  
+                    </gmd:version>
+                            
+                </gmd:MD_Format>
+                      
+            </gmd:distributionFormat>
+                  
+            <gmd:distributor>
+                        
+                <gmd:MD_Distributor>
+                              
+                    <gmd:distributorContact>
+                                    
+                        <gmd:CI_ResponsibleParty>
+                                          
+                            <gmd:organisationName>
+                                                
+                                <gco:CharacterString>Regione Lombardia</gco:CharacterString>
+                                              
+                            </gmd:organisationName>
+                                          
+                            <gmd:contactInfo>
+                                                
+                                <gmd:CI_Contact>
+                                                      
+                                    <gmd:phone>
+                                                            
+                                        <gmd:CI_Telephone>
+                                                                  
+                                            <gmd:voice>
+                                                                        
+                                                <gco:CharacterString>0267651</gco:CharacterString>
+                                                                      
+                                            </gmd:voice>
+                                                                
+                                        </gmd:CI_Telephone>
+                                                          
+                                    </gmd:phone>
+                                                      
+                                    <gmd:address>
+                                                            
+                                        <gmd:CI_Address>
+                                                                  
+                                            <gmd:deliveryPoint>
+                                                                        
+                                                <gco:CharacterString>Piazza città di Lombardia 1</gco:CharacterString>
+                                                                      
+                                            </gmd:deliveryPoint>
+                                                                  
+                                            <gmd:city>
+                                                                        
+                                                <gco:CharacterString>Milano</gco:CharacterString>
+                                                                      
+                                            </gmd:city>
+                                                                  
+                                            <gmd:administrativeArea>
+                                                                        
+                                                <gco:CharacterString>Milano</gco:CharacterString>
+                                                                      
+                                            </gmd:administrativeArea>
+                                                                  
+                                            <gmd:postalCode>
+                                                                        
+                                                <gco:CharacterString>20124</gco:CharacterString>
+                                                                      
+                                            </gmd:postalCode>
+                                                                  
+                                            <gmd:country>
+                                                                        
+                                                <gco:CharacterString>Italia</gco:CharacterString>
+                                                                      
+                                            </gmd:country>
+                                                                  
+                                            <gmd:electronicMailAddress>
+                                                                        
+                                                <gco:CharacterString>sit_rl@regione.lombardia.it</gco:CharacterString>
+                                                                      
+                                            </gmd:electronicMailAddress>
+                                                                
+                                        </gmd:CI_Address>
+                                                          
+                                    </gmd:address>
+                                                    
+                                </gmd:CI_Contact>
+                                              
+                            </gmd:contactInfo>
+                                          
+                            <gmd:role>
+                                                
+                                <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+                                              
+                            </gmd:role>
+                                        
+                        </gmd:CI_ResponsibleParty>
+                                  
+                    </gmd:distributorContact>
+                            
+                </gmd:MD_Distributor>
+                      
+            </gmd:distributor>
+                  
+            <gmd:transferOptions>
+                        
+                <gmd:MD_DigitalTransferOptions>
+                              
+                    <gmd:onLine>
+                                    
+                        <gmd:CI_OnlineResource>
+                                          
+                            <gmd:linkage>
+                                                
+                                <gmd:URL>http://www.cartografia.servizirl.it/arcgis1/rest/services/territorio/limiti_amministrativi_dbt_2020/MapServer</gmd:URL>
+                                              
+                            </gmd:linkage>
+                                          
+                            <gmd:name>
+                                                
+                                <gco:CharacterString>map</gco:CharacterString>
+                                              
+                            </gmd:name>
+                                        
+                        </gmd:CI_OnlineResource>
+                                  
+                    </gmd:onLine>
+                              
+                    <gmd:onLine>
+                                    
+                        <gmd:CI_OnlineResource>
+                                          
+                            <gmd:linkage>
+                                                
+                                <gmd:URL>http://www.geoportale.regione.lombardia.it/download-pacchetti?metadataid={A1D3FFE5-BA78-43BB-8EE5-D892DC55A29F}</gmd:URL>
+                                              
+                            </gmd:linkage>
+                                          
+                            <gmd:name>
+                                                
+                                <gco:CharacterString>data_internal</gco:CharacterString>
+                                              
+                            </gmd:name>
+                                        
+                        </gmd:CI_OnlineResource>
+                                  
+                    </gmd:onLine>
+                            
+                </gmd:MD_DigitalTransferOptions>
+                      
+            </gmd:transferOptions>
+                
+        </gmd:MD_Distribution>
+          
+    </gmd:distributionInfo>
+      
+    <gmd:dataQualityInfo>
+            
+        <gmd:DQ_DataQuality>
+                  
+            <gmd:scope>
+                        
+                <gmd:DQ_Scope>
+                              
+                    <gmd:level>
+                                    
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+                                  
+                    </gmd:level>
+                            
+                </gmd:DQ_Scope>
+                      
+            </gmd:scope>
+                  
+            <gmd:report>
+                        
+                <gmd:DQ_DomainConsistency>
+                              
+                    <gmd:result>
+                                    
+                        <gmd:DQ_ConformanceResult>
+                                          
+                            <gmd:specification>
+                                                
+                                <gmd:CI_Citation>
+                                                      
+                                    <gmd:title>
+                                                            
+                                        <gco:CharacterString>REGOLAMENTO (UE) N. 1089/2010 DELLA COMMISSIONE del 23 novembre 2010 recante attuazione della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto riguarda l'interoperabilità dei set di dati territoriali e dei servizi di dati territoriali</gco:CharacterString>
+                                                          
+                                    </gmd:title>
+                                                      
+                                    <gmd:date>
+                                                            
+                                        <gmd:CI_Date>
+                                                                  
+                                            <gmd:date>
+                                                                        
+                                                <gco:Date>2010-12-08</gco:Date>
+                                                                      
+                                            </gmd:date>
+                                                                  
+                                            <gmd:dateType>
+                                                                        
+                                                <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                                                      
+                                            </gmd:dateType>
+                                                                
+                                        </gmd:CI_Date>
+                                                          
+                                    </gmd:date>
+                                                    
+                                </gmd:CI_Citation>
+                                              
+                            </gmd:specification>
+                                          
+                            <gmd:explanation>
+                                                
+                                <gco:CharacterString>REGOLAMENTO (UE) N. 1089/2010 DELLA COMMISSIONE del 23 novembre 2010 recante attuazione della direttiva 2007/2/CE del Parlamento europeo e del Consiglio per quanto riguarda l'interoperabilità dei set di dati territoriali e dei servizi di dati territoriali</gco:CharacterString>
+                                              
+                            </gmd:explanation>
+                                          
+                            <gmd:pass gco:nilReason="unknown"/>
+                                        
+                        </gmd:DQ_ConformanceResult>
+                                  
+                    </gmd:result>
+                            
+                </gmd:DQ_DomainConsistency>
+                      
+            </gmd:report>
+                  
+            <gmd:report>
+                        
+                <gmd:DQ_AbsoluteExternalPositionalAccuracy>
+                              
+                    <gmd:result>
+                                    
+                        <gmd:DQ_QuantitativeResult>
+                                          
+                            <gmd:valueUnit>
+                                                
+                                <gml:BaseUnit gml:id="UD1">
+                                                      
+                                    <gml:identifier codeSpace="http://www.bipm.org/en/si/base_units">m</gml:identifier>
+                                                    
+                                    <gml:unitsSystem xlink:href="http://www.bipm.org/en/si"/>
+                                    
+                                </gml:BaseUnit>
+                                              
+                            </gmd:valueUnit>
+                                          
+                            <gmd:value>
+                                                
+                                <gco:Record>
+                                                      
+                                    <gco:Real>4</gco:Real>
+                                                    
+                                </gco:Record>
+                                              
+                            </gmd:value>
+                                        
+                        </gmd:DQ_QuantitativeResult>
+                                  
+                    </gmd:result>
+                            
+                </gmd:DQ_AbsoluteExternalPositionalAccuracy>
+                      
+            </gmd:report>
+                  
+            <gmd:lineage>
+                        
+                <gmd:LI_Lineage>
+                              
+                    <gmd:statement>
+                                    
+                        <gco:CharacterString>La legenda indica le fonti e le modalità di acquisizione dei limiti amministrativi rappresentati. In particolare già dal 2018 era stata aggiunta la voce “Validati tra Comuni limitrofi” per evidenziare che il tracciato cartografico dei limiti amministrativi è stato rivisto e validato tra Comuni limitrofi. I limiti amministrativi derivanti dalla CTR o da DBT non verificato con Catasto sono oggetto di verifiche puntuali per migliorarne la qualità.</gco:CharacterString>
+                                  
+                    </gmd:statement>
+                            
+                </gmd:LI_Lineage>
+                      
+            </gmd:lineage>
+                
+        </gmd:DQ_DataQuality>
+          
+    </gmd:dataQualityInfo>
+      
+    <gmd:metadataConstraints>
+            
+        <gmd:MD_LegalConstraints>
+                  
+            <gmd:accessConstraints>
+                        
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license">license</gmd:MD_RestrictionCode>
+                      
+            </gmd:accessConstraints>
+                  
+            <gmd:useConstraints>
+                        
+                <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license">license</gmd:MD_RestrictionCode>
+                      
+            </gmd:useConstraints>
+                
+        </gmd:MD_LegalConstraints>
+          
+    </gmd:metadataConstraints>
+      
+
+</gmd:MD_Metadata>
